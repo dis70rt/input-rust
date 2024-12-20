@@ -2,6 +2,6 @@
 name = "input-rust"
 version = "1.0.0"
 edition = "2024"
-author = ["Saikat Das <sd.saikat369@gmail.com>"]
+authors = ["Saikat Das <sd.saikat369@gmail.com>"]
 
 [dependencies]
